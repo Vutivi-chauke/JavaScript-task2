@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>welcome</title>
+	<link rel="stylesheet" href="style.css">
 
+
+</head>
+<body>
+
+	<h1>Javascript task 2</h1>
+	<input id="naming" type="text" name="" placeholder="your name">
+	<input id="results" type="text" name="" placeholder="student's marks">
+	<button>submit</button>
+
+	<ul>
+	</ul>
+
+
+
+
+	 <script src="script.js"></script>
+</body>
+</html>
